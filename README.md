@@ -1,6 +1,6 @@
 ## ANDRIAMIANDRISOA Tokiniaina Eddy
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/babakoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babakoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babakoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -12,8 +12,8 @@
  <img align="center" alt="dart" height="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png">
  <img align="center" alt="typeOrm" height="30" width="40" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
  <img align="center" alt="Graphql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
- <img align="center" alt="MongoDB" height="30" width="40" src="https://servicenav.coservit.com/wp-content/uploads/2021/05/29.jpg">
- <img align="center" alt="docker" height="30" width="40" src="https://cdn.1min30.com/wp-content/uploads/2018/05/Logo-Docker-1.jpg">
+ <img align="center" alt="MongoDB" height="50" width="50" src="https://servicenav.coservit.com/wp-content/uploads/2021/05/29.jpg">
+ <img align="center" alt="docker" height="50" width="50" src="https://cdn.1min30.com/wp-content/uploads/2018/05/Logo-Docker-1.jpg">
 
 
 
