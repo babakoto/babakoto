@@ -21,7 +21,7 @@
 
 
  
-  <img align="right" alt="babakoto" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="babakoto" src="https://github.com/babakoto/babakoto/blob/main/mada.gif">
 </div>
   
   ##
