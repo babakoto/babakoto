@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
  <img align="center" alt="Flutter" height="30" width="40" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png">
- <img align="center" alt="Flutter" height="30" width="40" src="https://image.pngaaa.com/400/23400-middle.png">
+ <img align="center" alt="Flutter" height="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png">
 
 
 
