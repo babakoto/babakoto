@@ -9,7 +9,11 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
  <img align="center" alt="Flutter" height="30" width="40" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png">
- <img align="center" alt="Flutter" height="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png">
+ <img align="center" alt="dart" height="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png">
+ <img align="center" alt="typeOrm" height="30" width="40" src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png">
+ <img align="center" alt="Graphql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png">
+ <img align="center" alt="MongoDB" height="30" width="40" src="https://servicenav.coservit.com/wp-content/uploads/2021/05/29.jpg">
+ <img align="center" alt="docker" height="30" width="40" src="https://cdn.1min30.com/wp-content/uploads/2018/05/Logo-Docker-1.jpg">
 
 
 
