@@ -33,8 +33,8 @@
  
  # Most use
  <div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="300" width="300" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png">
-    <img align="center" alt="NestJS" height="300" width="300" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
+  <img align="center" alt="Flutter" height="200" width="200" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png">
+    <img align="center" alt="NestJS" height="200" width="200" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg">
 
 
  </div>
