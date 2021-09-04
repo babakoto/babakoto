@@ -30,7 +30,10 @@
   <a href="https://www.youtube.com/channel/UCxAw8atrT_G0ZIC4cp9atog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:e.tokiniaina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/youngdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/babakoto/babakoto/blob/output/github-contribution-grid-snake.svg)
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Flutter" height="100" width="100" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png">
+  <img align="center" alt="Flutter" height="100" width="100" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png">
+ </div>
+  
  
 </div>
